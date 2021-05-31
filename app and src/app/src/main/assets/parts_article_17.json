@@ -1,0 +1,44 @@
+{
+  "article_parts": [
+    {
+      "id": 1,
+      "title": "",
+      "subtitle": "Sugerencias",
+      "text": "Continuando con la lista de elementos que muestra el buscador, aprovechando el ejemplo de Huawei vemos como nuestra búsqueda arrojó en primer lugar una serie de videos y debajo es que vemos el link principal. Esto se debe a que la inteligencia artificial te sugiere el contenido más visitado y consultado pro otros usuarios recientemente.",
+      "image_type": "bitmap",
+      "img_url": "article_17_img_1.webp"
+    },
+    {
+      "id": 2,
+      "title": "",
+      "subtitle": "Descripción avanzada",
+      "text": "En esta imagen también vemos a la derecha un recuadro con mucha información de Huawei. Esto es un resumen que aparece en entidades reconocidas y de las que hay información en sitios importantes como Wikipedia.",
+      "image_type": "bitmap",
+      "img_url": "article_17_img_2.webp"
+    },
+    {
+      "id": 3,
+      "title": "",
+      "subtitle": "",
+      "text": "A medida que más nos alejamos del primer lugar de la lista, más aislados serán las apariciones coincidentes. Ya empezarán a aparecer solo webs que mencionan la palabra Huawei o simplemente alternativas a estas o su entorno.",
+      "image_type": "vector",
+      "img_url": "ic_article_17_img_3"
+    },
+    {
+      "id": 4,
+      "title": "",
+      "subtitle": "Filtrado",
+      "text": "Si tu interés no es el de visitar la página de Huawei, sino por ejemplo ver imágenes de productos de esta empresa, podemos usar el filtrado de contenido. Serían esos botones de la web que te permiten reducir tu búsqueda solo a imágenes, videos, noticias y otros.",
+      "image_type": "bitmap",
+      "img_url": "article_17_img_4.webp"
+    },
+    {
+      "id": 5,
+      "title": "",
+      "subtitle": "",
+      "text": "Existen muchas otras opciones y funciones interesantes y útiles con Google Search que ya iremos describiendo en tutoriales más avanzados.",
+      "image_type": "vector",
+      "img_url": "ic_article_17_img_5"
+    }
+  ]
+}

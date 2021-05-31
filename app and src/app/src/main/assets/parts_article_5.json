@@ -1,0 +1,84 @@
+{
+  "article_parts": [
+    {
+      "id": 1,
+      "title": "",
+      "subtitle": "",
+      "text": "Para conectar tu dispositivo a los datos móviles se necesita, en primer lugar, de una breve configuración en la sección de \"Ajustes\".Esto corresponde a agregar el \"Nombre de Punto de Acceso\" o APN por sus siglas en inglés. A continuación se muestran los pasos.",
+      "image_type": "vector",
+      "img_url": "ic_article_5_img_1"
+    },
+    {
+      "id": 2,
+      "title": "",
+      "subtitle": "Paso 1: ",
+      "text": "Abrir a la aplicación de Ajustes o Configuraciones en tu dispositivo y entrar a la sección de Internet y Redes.",
+      "image_type": "bitmap",
+      "img_url": "article_5_img_2.webp"
+    },
+    {
+      "id": 3,
+      "title": "",
+      "subtitle": "Paso 2: ",
+      "text": "Entrar a la sección de Red móvil.",
+      "image_type": "bitmap",
+      "img_url": "article_5_img_3.webp"
+    },
+    {
+      "id": 4,
+      "title": "",
+      "subtitle": "Paso 3: ",
+      "text": "Presionar el botón de opciones avanzadas justo al final. Si posees un teléfono con dos capacidades para tarjetas SIM asegúrate de marcar en la parte  superior la pestaña nombrada Cubacel.",
+      "image_type": "bitmap",
+      "img_url": "article_5_img_4.webp"
+    },
+    {
+      "id": 5,
+      "title": "",
+      "subtitle": "Paso 4: ",
+      "text": "Ahora verá desplegadas una serie de opciones nuevas en esa ventana al final. Lo que procederá a hacer es deslizar hasta llegar a la última opción que debe ver con el nombre de APN o Nombres de puntos de acceso. Pulse esa opción.",
+      "image_type": "bitmap",
+      "img_url": "article_5_img_5.webp"
+    },
+    {
+      "id": 6,
+      "title": "",
+      "subtitle": "Paso 5: ",
+      "text": "En esta ventana puede ver la lista de APNs de su teléfono. Aquí puede o no encontrar elementos ya que algunos modelos vienen con APNs preconfiguradas. En tal caso puede eliminarlas presionando en cada una y dirigirse a los tres puntos de la derecha superior donde aparece la opción para eliminar.",
+      "image_type": "bitmap",
+      "img_url": "article_5_img_6.webp"
+    },
+    {
+      "id": 7,
+      "title": "",
+      "subtitle": "Paso 6: ",
+      "text": "Procedamos a crear el punto de acceso para acceder a datos móviles en Cuba. Presione en el botón \"+\" de la barra superior. Inmediatamente se presentará la ventana de edición de punto de acceso.",
+      "image_type": "bitmap",
+      "img_url": "article_5_img_7.webp"
+    },
+    {
+      "id": 8,
+      "title": "",
+      "subtitle": "Paso 7: ",
+      "text": "Ahora le presentamos los campos que debe rellenar y a la derecha el dato que debe introducir:\n-Nombre: nauta\n-APN: nauta\n-Puerto: 25",
+      "image_type": "bitmap",
+      "img_url": "article_5_img_8.webp"
+    },
+    {
+      "id": 9,
+      "title": "",
+      "subtitle": "Paso 8:",
+      "text": "Ahora paso el final es clickear en los tres puntos de la esquina superior derecha y usar la opción de Guardar.",
+      "image_type": "bitmap",
+      "img_url": "article_5_img_9.webp"
+    },
+    {
+      "id": 10,
+      "title": "",
+      "subtitle": "",
+      "text": "Con esos pasos acaba de configurar su APN nauta y podrá verla en la lista de Puntos de Accesos. Si usted tiene más de un APN asegúrese de mantener marcado el nauta. Ahora continuaremos explicando el proceso de acceso a la red.",
+      "image_type": "bitmap",
+      "img_url": "article_5_img_10.webp"
+    }
+  ]
+}

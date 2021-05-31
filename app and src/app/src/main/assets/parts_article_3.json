@@ -1,0 +1,20 @@
+{
+  "article_parts": [
+    {
+      "id": 1,
+      "title": "",
+      "subtitle": "",
+      "text": "Los dispositivos que trataremos serán todos esos con la capacidad de conectarse a redes digitales. Ejemplo será este teléfono o Tablet con el que estás visualizando la app. Una computadora de escritorio, una laptop y hasta los llamados televisores inteligentes.",
+      "image_type": "vector",
+      "img_url": "ic_article_3_img_1"
+    },
+    {
+      "id": 2,
+      "title": "",
+      "subtitle": "",
+      "text": "Entonces con los dispositivos consumirás de redes de información como son las conexiones que proveen internet, la red que permite realizar llamadas y mensajes de texto, o simplemente entre dispositivos por Bluetooth como pueden ser tu reloj inteligente o tus audífonos inalámbricos.",
+      "image_type": "vector",
+      "img_url": "ic_article_3_img_2"
+    }
+  ]
+}

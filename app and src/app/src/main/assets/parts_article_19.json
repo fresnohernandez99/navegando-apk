@@ -1,0 +1,68 @@
+{
+  "article_parts": [
+    {
+      "id": 1,
+      "title": "",
+      "subtitle": "",
+      "text": "Es imposible declarar una estructura única para todas las webs que existen. Son variadas porque dependen de quien las desarrolle y puede escoger que elementos y donde aparecen en ella.",
+      "image_type": "vector",
+      "img_url": "ic_article_19_img_1"
+    },
+    {
+      "id": 2,
+      "title": "",
+      "subtitle": "",
+      "text": "Los sitios web se conforman por todo lo que aparece en el cuerpo del navegador al momento de cargarla por completo.",
+      "image_type": "vector",
+      "img_url": "ic_article_19_img_2"
+    },
+    {
+      "id": 3,
+      "title": "",
+      "subtitle": "",
+      "text": "Entre elementos que podemos encontrar están el título, botones, campos de texto, campos para introducir texto, imágenes y más.",
+      "image_type": "vector",
+      "img_url": "ic_article_19_img_3"
+    },
+    {
+      "id": 4,
+      "title": "",
+      "subtitle": "",
+      "text": "Sin embargo, muy a menudo se pueden observar patrones entre las distintas páginas. Por ejemplo:\n- Título en la parte superior izquierda.\n- Menú de secciones en una barra lateral.\n- Contenido de la sección en el centro.\n- Área con información e contactos al fondo.",
+      "image_type": "vector",
+      "img_url": "ic_article_19_img_4"
+    },
+    {
+      "id": 5,
+      "title": "",
+      "subtitle": "",
+      "text": "Para realizar una búsqueda sabes que puedes acudir a Google. Pero si ya encontraste una página de tu interés y quieres buscar algo de su contenido es mejor utilizar su propia barra de búsqueda, si la presenta.",
+      "image_type": "bitmap",
+      "img_url": "article_19_img_5.webp"
+    },
+    {
+      "id": 6,
+      "title": "",
+      "subtitle": "",
+      "text": "La barra de búsqueda del cuerpo del sitio en la mayoría se muestra en la parte superior, encentrada o a la derecha.",
+      "image_type": "bitmap",
+      "img_url": "article_19_img_6.webp"
+    },
+    {
+      "id": 7,
+      "title": "",
+      "subtitle": "",
+      "text": "Ahora la interfaz de una página web resultará más amigable ya que conoces parte de su estructura, y la gran variedad no te atormentará. Intenta siempre buscar los elementos que ya conoces y explora de a pocos los nuevos que aparezcan.",
+      "image_type": "vector",
+      "img_url": "ic_article_19_img_7"
+    },
+    {
+      "id": 8,
+      "title": "",
+      "subtitle": "",
+      "text": "Una de las bases principales del desarrollo de herramientas informáticas es que deben diseñarse de manera INTUITIVA. Esto quiere decir que se crean para que cualquiera pueda manipularlas, y los sitios web son una prueba de esto. No desesperes al acceder a una página nueva. Piensa que fue realizada pensando en que tú podrías usarla. Solo basta probar :)",
+      "image_type": "vector",
+      "img_url": "ic_article_19_img_8"
+    }
+  ]
+}

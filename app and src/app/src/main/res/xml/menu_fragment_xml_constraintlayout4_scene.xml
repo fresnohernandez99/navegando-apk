@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<MotionScene 
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:motion="http://schemas.android.com/apk/res-auto">
+
+    <Transition
+        motion:constraintSetEnd="@+id/middleProgress"
+        motion:constraintSetStart="@id/startProgress"
+        motion:duration="1000"
+        motion:autoTransition="animateToEnd">
+       <KeyFrameSet>
+       </KeyFrameSet>
+    </Transition>
+
+    <ConstraintSet android:id="@+id/startProgress">
+        <Constraint
+            android:id="@+id/questionCardContainer"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            motion:layout_constraintTop_toBottomOf="@id/listImage"
+            android:scaleX="0.5"
+            android:scaleY="0.5"
+            android:alpha="0" />
+        <Constraint
+            android:id="@+id/listImage"
+            android:layout_width="match_parent"
+            android:layout_height="140dp"
+            android:layout_marginTop="@dimen/topTextMargin"
+            motion:layout_constraintBottom_toTopOf="parent" />
+    </ConstraintSet>
+
+    <ConstraintSet android:id="@+id/middleProgress">
+        <Constraint
+            android:id="@+id/questionCardContainer"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            motion:layout_constraintTop_toBottomOf="@id/listImage"
+            android:alpha="1"
+            android:scaleX="1"
+            android:scaleY="1" />
+        <Constraint
+            android:id="@+id/listImage"
+            android:layout_width="match_parent"
+            android:layout_height="140dp"
+            motion:layout_constraintTop_toTopOf="parent"
+            android:layout_marginTop="@dimen/topTextMargin" />
+    </ConstraintSet>
+</MotionScene>

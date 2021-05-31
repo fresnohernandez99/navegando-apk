@@ -1,0 +1,28 @@
+{
+  "article_parts": [
+    {
+      "id": 1,
+      "title": "",
+      "subtitle": "",
+      "text": "Ya sabemos de que nuestro dispositivo es capaz de conectarse a varias redes de información como las que usamos para llamar o mandar SMSs. Pero nuestro objetivo es acceder a Internet. Las formas de acceder a Internet son la red de Datos Móviles y las redes WIFI.",
+      "image_type": "vector",
+      "img_url": "ic_article_4_img_1"
+    },
+    {
+      "id": 2,
+      "title": "",
+      "subtitle": "",
+      "text": "La red de Datos Móviles es accesible para los dispositivos que acepten tarjetas SIM y es transmitida por las mismas antenas que proveen la cobertura celular. En Cuba el proveedor de estas tarjetas es ETECSA. Entonces, si tienes tarjeta SIM de Cubacel, ya tienes acceso a esta red después de un par de configuraciones que ya te mostraremos.",
+      "image_type": "vector",
+      "img_url": "ic_article_4_img_2"
+    },
+    {
+      "id": 3,
+      "title": "",
+      "subtitle": "",
+      "text": "Las redes WIFI son accesibles para todos los dispositivos que tengan receptor WIFI y en Cuba el acceso a esta red se realiza a través de los llamados Puntos de Acceso (AP) Nauta. Estos mayormente se encuentran en lugares públicos. Entonces, por ejemplo, si tienes un celular, tablet o laptop, puedes acceder a esta red.",
+      "image_type": "vector",
+      "img_url": "ic_article_4_img_3"
+    }
+  ]
+}

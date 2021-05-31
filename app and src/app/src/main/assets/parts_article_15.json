@@ -1,0 +1,52 @@
+{
+  "article_parts": [
+    {
+      "id": 1,
+      "title": "",
+      "subtitle": "",
+      "text": "Ya sabemos que el contenido de internet se aloja en servicios como las páginas web. Probemos el acceso a una.",
+      "image_type": "vector",
+      "img_url": "ic_article_15_img_1"
+    },
+    {
+      "id": 2,
+      "title": "",
+      "subtitle": "Necesitamos:",
+      "text": "- Habilitar nuestros datos móviles o abrir nuestra cuenta nauta de navegación internacional. (Una o la otra no ambas al mismo tiempo)\n- Abrir un navegador en nuestro dispositivo.",
+      "image_type": "vector",
+      "img_url": "ic_article_15_img_2"
+    },
+    {
+      "id": 3,
+      "title": "",
+      "subtitle": "",
+      "text": "Una característica notable de todos los navegadores es que poseen una barra para escribir en la parte superior. Puedes omitir los siguientes pasos usando la herramienta del final.",
+      "image_type": "vector",
+      "img_url": "ic_article_15_img_3"
+    },
+    {
+      "id": 4,
+      "title": "",
+      "subtitle": "",
+      "text": "Si tiene algo escrito borrémoslo y escribamos lo siguiente: www.apklis.cu. Luego presionamos la tecla de continuar. Esta en un dispositivo móvil puede estar en el teclado o podría ver un botón con símbolo de búsqueda. Cualquier variante es igual.",
+      "image_type": "vector",
+      "img_url": "ic_article_15_img_4"
+    },
+    {
+      "id": 5,
+      "title": "",
+      "subtitle": "",
+      "text": "De a poco iremos viendo como se produce primero un proceso de descarga de la web y termina mostrando su contenido, dibujado en una interfaz como en la imagen.",
+      "image_type": "bitmap",
+      "img_url": "article_15_img_5.webp"
+    },
+    {
+      "id": 6,
+      "title": "",
+      "subtitle": "",
+      "text": "Este sitio web que abrimos es una tienda de aplicaciones cubana. (De las tiendas estaremos hablando más adelante) Si quisiéramos ver videos podríamos escribir en la barra:\nwww.picta.cu  \nwww.youtube.com \nEntre otras. Si quisiéramos ver fotos podríamos acceder a\nwww.pinterest.com \nY así infinidades de sitios.",
+      "image_type": "vector",
+      "img_url": "ic_article_15_img_6"
+    }
+  ]
+}

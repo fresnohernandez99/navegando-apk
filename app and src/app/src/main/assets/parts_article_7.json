@@ -1,0 +1,44 @@
+{
+  "article_parts": [
+    {
+      "id": 1,
+      "title": "",
+      "subtitle": "",
+      "text": "Ahora te explicaremos como preparar tu dispositivo para conectarse a la red WIFI nacional o puntos NAUTA.",
+      "image_type": "bitmap",
+      "img_url": "article_7_img_1.webp"
+    },
+    {
+      "id": 2,
+      "title": "",
+      "subtitle": "Importante",
+      "text": "Esta requiere de una visita obligatoria a las oficinas comerciales de ETECSA. Cuando estés ahí debes pedir la creación de las siguientes cuentas:\n-Cuenta de Navegación Nacional\n-Cuenta de Navegación Internacional\n-Cuenta de Correo Nauta",
+      "image_type": "bitmap",
+      "img_url": "article_7_img_2.webp"
+    },
+    {
+      "id": 3,
+      "title": "",
+      "subtitle": "",
+      "text": "Las tres cuentas anteriores son para propósitos distintos y no te preocupes que te los iremos explicando poco a poco.",
+      "image_type": "vector",
+      "img_url": "ic_article_7_img_3"
+    },
+    {
+      "id": 4,
+      "title": "",
+      "subtitle": "",
+      "text": "Cada cuenta se te entregará con un papel de propiedad que porta dos datos importantes de cada una:\n-Usuario\n-Contraseña",
+      "image_type": "bitmap",
+      "img_url": "article_7_img_4.webp"
+    },
+    {
+      "id": 5,
+      "title": "",
+      "subtitle": "",
+      "text": "Ahora debes preguntar y dirigirte a un área cubierta por la red WIFI de ETECSA. Los llamados \"parques wifi\" por ejemplo. De preferencia ve con alguien que te pueda asistir en tu primera ocasión.",
+      "image_type": "bitmap",
+      "img_url": "article_7_img_5.webp"
+    }
+  ]
+}

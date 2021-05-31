@@ -1,0 +1,19 @@
+{
+  "id": 22,
+  "title": "Creando cuenta en Facebook",
+  "description": "Explicación sobre cómo registrarse en la red social Facebook.",
+  "article_part": "parts_article_22",
+  "references": [
+    "https://www.facebook.com/help/188157731232424"
+  ],
+  "keywords": [
+    "registro",
+    "facebook"
+  ],
+  "tools": [
+    {
+      "type": "tool_link",
+      "data": "https://www.facebook.com/"
+    }
+  ]
+}

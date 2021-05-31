@@ -1,0 +1,44 @@
+{
+  "article_parts": [
+    {
+      "id": 1,
+      "title": "",
+      "subtitle": "",
+      "text": "No siempre lo que necesitamos en un sitio web de una marca o entidad reconocida. La mayoría del tiempo simplemente tenemos una duda. Pues a Google puedes realizarle la pregunta y si bien no puede responderte, te mostrará links de páginas que sí lo hacen.",
+      "image_type": "vector",
+      "img_url": "ic_article_18_img_1"
+    },
+    {
+      "id": 2,
+      "title": "",
+      "subtitle": "",
+      "text": "Para realizar una pregunta basta con escribir en Google Search tu duda en el cajón. Luego de que cargue verás entre los resultados una serie de links a sitios web donde se usa o menciona tu pregunta o parte de esta. Incluso si es una duda puntual puede mostrarte videos donde aparece y más.",
+      "image_type": "bitmap",
+      "img_url": "article_18_img_2.webp"
+    },
+    {
+      "id": 3,
+      "title": "",
+      "subtitle": "",
+      "text": "El buscador de Google utiliza inteligencia artificial para mostrar los resultados más buscados y mejor calificados al rededor de tu consulta. Sitios, videos, imágenes, las noticias más novedosas y más que de seguro calmarán tu sed de descubrimiento.",
+      "image_type": "vector",
+      "img_url": "ic_article_18_img_3"
+    },
+    {
+      "id": 4,
+      "title": "",
+      "subtitle": "",
+      "text": "Para lograr una búsqueda avanzada más eficiente hay simples pasos que deberías probar:\n- No extenderse en las preguntas (Ser breve con lo que escribimos)\n- Usar palabras claves en vez de toda una oración. Ej: ¿Qué empresas china produce buenos celulares? Puede sustituirse por:\nempresas china celulares\nY seguro obtendrás resultados muy similares y llegarás más rápido a tu destino.",
+      "image_type": "bitmap",
+      "img_url": "article_18_img_4.webp"
+    },
+    {
+      "id": 5,
+      "title": "",
+      "subtitle": "Resumimos",
+      "text": "Utilizarás un navegador para acceder al sitio web www.google.com donde se permite hacer consultas sobre cualquier contenido y te mostrará resultados con coincidencias de tema y otras informaciones generales de utilidad, de manera resumida. Escoge el resultado que creas más certero y clickea para ser dirigido a su sitio web y disfrutar de todo el material.",
+      "image_type": "vector",
+      "img_url": "ic_article_18_img_5"
+    }
+  ]
+}

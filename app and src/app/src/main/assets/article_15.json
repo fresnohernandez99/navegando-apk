@@ -1,0 +1,18 @@
+{
+  "id": 15,
+  "title": "Accediendo a una web",
+  "description": "Primeras exploraciones en los servicios de la red de redes",
+  "article_part": "parts_article_15",
+  "references": [
+  ],
+  "keywords": [
+    "navegación",
+    "internet"
+  ],
+  "tools": [
+    {
+      "type": "tool_link",
+      "data": "http://www.apklis.cu/"
+    }
+  ]
+}

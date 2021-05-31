@@ -1,0 +1,52 @@
+{
+  "article_parts": [
+    {
+      "id": 1,
+      "title": "",
+      "subtitle": "",
+      "text": "Es poco probable que no sepas de Facebook. Es un sitio web de tipo red social. Esto significa que está constituido por el uso masivo de usuarios que crean y comparten contenido de su preferencia.",
+      "image_type": "vector",
+      "img_url": "ic_article_22_img_1"
+    },
+    {
+      "id": 2,
+      "title": "",
+      "subtitle": "Paso 1",
+      "text": "Abrir la página web escribiendo en nuestro buscador Facebook o directamente en nuestro navegador con el link\nwww.facebook.com",
+      "image_type": "bitmap",
+      "img_url": "article_22_img_2.webp"
+    },
+    {
+      "id": 3,
+      "title": "",
+      "subtitle": "Paso 2",
+      "text": "Click en el botón \"Crear Cuenta Nueva\"",
+      "image_type": "bitmap",
+      "img_url": "article_22_img_3.webp"
+    },
+    {
+      "id": 4,
+      "title": "",
+      "subtitle": "Paso 3",
+      "text": "Rellenar los datos necesarios: tu nombre, correo electrónico o número de teléfono móvil, contraseña, fecha de nacimiento y sexo.",
+      "image_type": "bitmap",
+      "img_url": "article_22_img_4.webp"
+    },
+    {
+      "id": 5,
+      "title": "",
+      "subtitle": "Paso 4",
+      "text": "Validar tu cuenta introduciendo el código enviado según la vía que escogiste (te llegará o un SMS o un email con un número)",
+      "image_type": "bitmap",
+      "img_url": "article_22_img_5.webp"
+    },
+    {
+      "id": 6,
+      "title": "",
+      "subtitle": "Listo!!!",
+      "text": "Ya tienes cuenta en Facebook. Recuerda apuntar tus credenciales por si se solicitan en algún otro momento u otro dispositivo. Si quieres conocer más de las funciones en sí de la red social, déjanos saber tus dudas en la sección Menú, donde puedes crearuna sugerencia de tema.",
+      "image_type": "vector",
+      "img_url": "ic_article_22_img_6"
+    }
+  ]
+}

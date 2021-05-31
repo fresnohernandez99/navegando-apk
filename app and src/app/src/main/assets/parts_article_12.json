@@ -1,0 +1,84 @@
+{
+  "article_parts": [
+    {
+      "id": 1,
+      "title": "",
+      "subtitle": "",
+      "text": "Recordamos lo necesario para acceder:\n-Tener tarjeta SIM con al menos 125 C.U.P.\n-Haber configurado APN nauta (explicado anteriormente)\n-Disponer de buena señal móvil (cobertura celular)",
+      "image_type": "vector",
+      "img_url": "ic_article_12_img_1"
+    },
+    {
+      "id": 2,
+      "title": "",
+      "subtitle": "",
+      "text": "Puedes hacer la compra del paquete con solo presionar la herramienta del final, pero si quieres ver todo el proceso continuemos procediendo a marcar en tu app de llamadas el código *133# y presionamos llamar.",
+      "image_type": "bitmap",
+      "img_url": "article_12_img_2.webp"
+    },
+    {
+      "id": 3,
+      "title": "",
+      "subtitle": "",
+      "text": "Cuando se realiza esta acción comenzará un pequeño proceso de carga que te mostrará el cuadro que ves en la imagen.",
+      "image_type": "bitmap",
+      "img_url": "article_12_img_3.webp"
+    },
+    {
+      "id": 4,
+      "title": "",
+      "subtitle": "",
+      "text": "Nuestra opción a seleccionar será la de \"Datos\". Para eso escribiremos el número 1 en el espacio debajo de las opciones y luego presionamos en \"ENVIAR\".",
+      "image_type": "bitmap",
+      "img_url": "article_12_img_4.webp"
+    },
+    {
+      "id": 5,
+      "title": "",
+      "subtitle": "",
+      "text": "En el siguiente recuadro mostrado vemos todas las ofertas de compra de datos que ya iremos explicando en próximos capítulos. Ahora seleccionaremos la opción 4 \"Paquetes\".",
+      "image_type": "bitmap",
+      "img_url": "article_12_img_5.webp"
+    },
+    {
+      "id": 6,
+      "title": "",
+      "subtitle": "",
+      "text": "Esta vez muestra las ofertas de compra de paquetes que puedes adquirir. Y nos volveremos a ir por la básica. Escribimos 1 y presionamos \"ENVIAR\".",
+      "image_type": "bitmap",
+      "img_url": "article_12_img_6.webp"
+    },
+    {
+      "id": 7,
+      "title": "",
+      "subtitle": "",
+      "text": "Ahora nos pedirá una confirmación para asegurar que estés seleccionando la opción correcta. Tu recuadro debe ser igual a este de la imagen. Si es así pues escribe 1 y envía de nuevo. Sino presiona \"CANCELAR\" y repite todo el tutorial.",
+      "image_type": "bitmap",
+      "img_url": "article_12_img_7.webp"
+    },
+    {
+      "id": 8,
+      "title": "",
+      "subtitle": "",
+      "text": "Al final recibirás un último cuadro diciendo que está procesando tu petición. Si todo este proceso lo conoces o simplemente te pesa puedes usar la herramienta del tutorial abajo para saltarte todos los pasos hasta llegar a la confirmación final. Revisa tener el mismo recuadro anterior.",
+      "image_type": "bitmap",
+      "img_url": "article_12_img_8.webp"
+    },
+    {
+      "id": 9,
+      "title": "",
+      "subtitle": "",
+      "text": "Logrado esto en pocos segundos debe llegarte un SMS de Cubacel diciendo algo parecido al que se muestra en la imagen.",
+      "image_type": "bitmap",
+      "img_url": "article_12_img_9.webp"
+    },
+    {
+      "id": 10,
+      "title": "",
+      "subtitle": "Logrado. Felicidades!!!",
+      "text": "Gracias por comprar tu paquete nauta para navegar en toda la red accesible desde Cubacel. Ya casi hablaremos de como se realiza una navegación correcta y sobre la infinidad de posibilidades que ofrece la Red de Redes.",
+      "image_type": "vector",
+      "img_url": "ic_article_12_img_10"
+    }
+  ]
+}

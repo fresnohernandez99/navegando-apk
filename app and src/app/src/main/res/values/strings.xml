@@ -1,0 +1,63 @@
+<resources>
+    <string name="app_name">Navegando</string>
+
+    <!--Start fragment-->
+    <string name="t_hello">Hola</string>
+    <string name="t_tell_me_your_name">Dime tu nombre</string>
+    <string name="t_cant_be_empty">No puede estar vacío</string>
+    <string name="t_continue">Continuar</string>
+    <string name="t_fresh_start">Inicio Nuevo</string>
+    <string name="t_selec_action">Seleccione su acción</string>
+    <string name="t_accept">Acpetar</string>
+    <string name="t_find">Buscar</string>
+    <string name="t_ready">Listo!</string>
+    <string name="twitter">Twitter</string>
+    <string name="linkedin">Linkedin</string>
+    <string name="target">Tarjeta de Banco Popular de Ahorros</string>
+    <string name="target_num">9205129972383070</string>
+    <string name="more_info">Puede informarse más aquí:</string>
+
+    <!--Tutorial fragment-->
+    <string name="wanna_read_more">Quiero leer más</string>
+
+    <!--IMG descriptions-->
+    <string name="stand_front_hand_on_air_glasses">stand_front_hand_on_air_glasses</string>
+    <string name="item_article_description">item_article_description</string>
+    <string name="img_from_article_list">img_from_article_list</string>
+    <string name="finder_img_description">finder_img_description</string>
+    <string name="info_dialog_logo_description">info_dialog_logo_description</string>
+    <string name="sponsor_card_description">sponsor_card_description</string>
+    <string name="logo_help_description">logo_help_description</string>
+    <string name="sponsors_image_description">sponsors_image_description</string>
+    <string name="configs_btn_description">configs_btn_description</string>
+    <string name="img_btn_close_description">img_btn_close_description</string>
+    <string name="img_tools_layout_description">img_tools_layout_description</string>
+    <string name="tool_img_btn_description">tool_img_btn_description</string>
+
+    <!--Infos-->
+    <string name="info_menu">
+        Esta sección de la aplicación muestra un listado de todos los artículos contenidos en ella y a los que puedes acceder desde aquí uno a uno, o pasando por una secuencia predefinida en la sección de Tutoriales. Tambíen puedes ayudarnos sugiriendo un tema que de seguro tendremos en cuenta en nuestras próximas versiones.
+    </string>
+    <string name="send_suggestion">
+        Envía una sugerencia para tener en cuenta como contenido de interés
+    </string>
+    <string name="send_reason">
+        Envía una explicación sobre el artículo para mejorarlo
+    </string>
+    <string name="whats_About" >
+        Navegando es un app desarrollada para ayudar a conocer mejor las facilidades y nuevas soluciones que ofrece el uso de internet. Orientada específicamente a las maneras de conectarse en Cuba y con una serie de artículos para que las personas de cualquier edad sepan explotar mejor este importante recurso.
+    </string>
+    <string name="develop_by">Desarrollado por:</string>
+    <string name="user_email">Eddy Yoel Fresno Hernández fresnohernandez99@gmail.com</string>
+    <string name="app_free_explication">Navegando es y será gratuita para todos los usuarios. Usted puede decidir si quiere contribuir con el proyecto, y, con pequeña que sea su contribución será recibida como muy importante, ya que representará parte del motivo de continuar y mejorar nuestro contenido</string>
+    <string name="info_sponsors">
+        Esta sección de la aplicación muestra un listado de apps recomendadas por el desarrollador para disfrutar de buenas opciones disponibles en Internet a través de consumo nacional.
+    </string>
+    <string name="info_be_there">
+        Si eres desarrollador android y tienes una app que crees que deba aparecer por acá déjame un email a esta dirección fresnohernandez99@gmail.com con el link de descarga y las razones.
+    </string>
+    <string name="fresh_start_init">Los siguientes tutoriales servirán para adentrarte o mejorar tus habilidades en el uso de Internet y sus facilidades. Para cada uno tienes una encuesta al final para dejar tu impresión. Toca en las imágenes para hacerles zoom si lo necesitas</string>
+    <string name="end_for_now">Felicidades has completado todos los tutoriales actuales. Para repasarlos utiliza la sección de Lista de Temas. Presta atención a las nuevas actualizaciones donde traeremos nuevo contenido y mejoraremos el actual. Si quieres volver a repasar todo puedes ir a la sección de opciones para poner tu progreso en 0.</string>
+
+
+</resources>

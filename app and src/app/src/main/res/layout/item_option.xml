@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<layout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <data>
+
+        <variable
+            name="item"
+            type="cu.fresnohernandez99.app.navegando.data.model.entities.Option" />
+
+    </data>
+
+    <androidx.cardview.widget.CardView
+        style="@style/CardOptionItem"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="@dimen/cardsHorizontalMargins"
+        android:layout_marginEnd="@dimen/cardsHorizontalMargins"
+        android:layout_marginBottom="@dimen/optionPadding"
+        android:foreground="?android:attr/selectableItemBackgroundBorderless"
+        app:contentPadding="@dimen/optionPadding">
+
+        <TextView
+            android:id="@+id/optionText"
+            style="@style/OptionTexts"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@{item.content}" />
+
+    </androidx.cardview.widget.CardView>
+
+</layout>

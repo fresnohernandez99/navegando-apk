@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="utf-8"?>
+<layout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools">
+
+    <data>
+
+        <variable
+            name="vm"
+            type="cu.fresnohernandez99.app.navegando.ui.fragments.menu.MenuViewModel" />
+        <!--
+                <variable
+                    name="articlesAdapter"
+                    type="cu.fresnohernandez99.app.navegando.ui.adapters.ArticlesMiniAdapter" />
+             -->
+        <variable
+            name="articlesAdapter"
+            type="cu.fresnohernandez99.app.navegando.ui.adapters.ArticlesMiniPageAdapter" />
+
+    </data>
+
+    <FrameLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:background="@drawable/ic_background_purple_right"
+        tools:context=".ui.fragments.start.MenuFragment">
+
+        <androidx.core.widget.NestedScrollView
+            style="@style/FragmentsIn"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent">
+
+            <androidx.constraintlayout.motion.widget.MotionLayout
+                android:id="@+id/constraintLayout4"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                app:layoutDescription="@xml/menu_fragment_xml_constraintlayout4_scene">
+
+                <ImageView
+                    android:id="@+id/listImage"
+                    android:layout_width="match_parent"
+                    android:layout_height="140dp"
+                    android:layout_marginTop="@dimen/topTextMargin"
+                    android:contentDescription="@string/img_from_article_list"
+                    android:src="@drawable/ic_on_ground_cell_on_hand"
+                    app:layout_constraintTop_toTopOf="parent" />
+
+                <FrameLayout
+                    android:id="@+id/questionCardContainer"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    app:layout_constraintTop_toBottomOf="@id/listImage">
+
+                    <include
+                        android:id="@+id/questionCard"
+                        layout="@layout/question_layout" />
+
+                </FrameLayout>
+
+                <androidx.recyclerview.widget.RecyclerView
+                    android:id="@+id/articleRecycler"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:overScrollMode="never"
+                    app:adapter="@{articlesAdapter}"
+                    app:layoutManager="androidx.recyclerview.widget.LinearLayoutManager"
+                    app:layout_constraintTop_toBottomOf="@id/questionCardContainer"
+                    tools:itemCount="3"
+                    tools:listitem="@layout/item_article_mini" />
+
+            </androidx.constraintlayout.motion.widget.MotionLayout>
+
+        </androidx.core.widget.NestedScrollView>
+
+    </FrameLayout>
+
+</layout>

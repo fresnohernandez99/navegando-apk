@@ -1,0 +1,60 @@
+{
+  "article_parts": [
+    {
+      "id": 1,
+      "title": "",
+      "subtitle": "",
+      "text": "Ahora probaremos que tu dispositivo está accediendo a la red de datos. Para esto necesitas un lugar con buena cobertura celular.",
+      "image_type": "vector",
+      "img_url": "ic_article_6_img_1"
+    },
+    {
+      "id": 2,
+      "title": "",
+      "subtitle": "",
+      "text": "Ahora pasaremos a activar los datos móviles. Para eso debes acceder a tu barra de herramientas que por lo general puedes encontrar deslizando con tu dedo en el borde superior de la pantalla.",
+      "image_type": "bitmap",
+      "img_url": "article_6_img_2.webp"
+    },
+    {
+      "id": 3,
+      "title": "",
+      "subtitle": "",
+      "text": "Entre los botones que puedes ver debes buscar el representado con uno de los símbolos mostrados en la imagen. De no ser ninguno de estos busca por el nombre de Datos móviles y descubre cual es.",
+      "image_type": "vector",
+      "img_url": "ic_article_6_img_3"
+    },
+    {
+      "id": 4,
+      "title": "",
+      "subtitle": "",
+      "text": "Cuando lo presiones una vez debe quedar resaltado. Ahora probemos.",
+      "image_type": "bitmap",
+      "img_url": "article_6_img_4.webp"
+    },
+    {
+      "id": 5,
+      "title": "",
+      "subtitle": "",
+      "text": "Ahora navegaremos hasta el sitio central de ETECSA. Para esto debes usar una aplicación de tipo navegador. Sino sabes lo que son no te preocupes hay una sección entera dedicada a ellos más adelante.",
+      "image_type": "bitmap",
+      "img_url": "article_6_img_5.webp"
+    },
+    {
+      "id": 6,
+      "title": "",
+      "subtitle": "",
+      "text": "Lo que harás será usar la herramienta del cajón al final de este tutorial. Al presionar la herramienta te dejará escoger con qué aplicación de tipo navegador quieres proceder a abrir el sitio. Selecciona cualquiera. Continúa leyendo y al final inténtalo.",
+      "image_type": "bitmap",
+      "img_url": "article_6_img_6.webp"
+    },
+    {
+      "id": 7,
+      "title": "",
+      "subtitle": "",
+      "text": "En dependencia de la calidad de tu señal llegará en un tiempo a aparecer el contenido de la página principal de ETECSA. Si lograste verla habrás completado correctamente la configuración del APN y la activación de la red móvil de tu dispositivo. Felicidades!",
+      "image_type": "bitmap",
+      "img_url": "article_6_img_7.webp"
+    }
+  ]
+}

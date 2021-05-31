@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="corners">15dp</dimen>
+    <dimen name="cardsElevations">5dp</dimen>
+    <dimen name="optionElevations">3dp</dimen>
+
+    <!--Texts-->
+    <dimen name="topTexts">30sp</dimen>
+    <dimen name="usernameText">25sp</dimen>
+    <dimen name="questionTitles">22sp</dimen>
+    <dimen name="questionTexts">18sp</dimen>
+    <dimen name="optionTexts">19sp</dimen>
+    <dimen name="miniTitleTexts">15sp</dimen>
+    <dimen name="miniDescriptionTexts">12sp</dimen>
+
+    <!--Border Separations-->
+    <dimen name="borderContentMargin">30dp</dimen>
+    <dimen name="borderQuestionCardPadding">20dp</dimen>
+    <dimen name="questionVerticalMargins">15dp</dimen>
+    <dimen name="cardsHorizontalMargins">5dp</dimen>
+    <dimen name="optionPadding">10dp</dimen>
+    <dimen name="optionMargin">10dp</dimen>
+    <dimen name="itemArticleMargin">20dp</dimen>
+    <dimen name="topTextMargin">40dp</dimen>
+    <dimen name="questionTextMargin">30dp</dimen>
+    <dimen name="askEditTextPadding">5dp</dimen>
+    <dimen name="articleMiniMargin">8dp</dimen>
+    <dimen name="marginArticleMini">15dp</dimen>
+    <dimen name="marginHorizontalArticleMini">7dp</dimen>
+    <dimen name="sponsorCardSize">50dp</dimen>
+    <dimen name="paddingEndSponsorText">57dp</dimen>
+    <dimen name="marginStartSponsorText">5dp</dimen>
+
+
+    <dimen name="toolsBtnSize">50dp</dimen>
+    <dimen name="toolsImgSize">30dp</dimen>
+</resources>

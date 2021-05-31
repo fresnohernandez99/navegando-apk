@@ -1,0 +1,18 @@
+{
+  "id": 6,
+  "title": "Probando red móvil",
+  "description": "Prueba de la red móvil accediendo a servicios gratis",
+  "article_part": "parts_article_6",
+  "references": [
+  ],
+  "keywords": [
+    "prueba",
+    "datos"
+  ],
+  "tools": [
+    {
+      "type": "tool_link",
+      "data": "http://www.etecsa.cu/"
+    }
+  ]
+}

@@ -1,0 +1,84 @@
+{
+  "article_parts": [
+    {
+      "id": 1,
+      "title": "",
+      "subtitle": "",
+      "text": "Ahora ya conoces varias páginas. Pero son incontables los sitios de internet. Tantos que no podríamos visitar todos ni en 100 años de vida. Entonces aparece la interrogante. ¿Cómo encontrar algo en internet?",
+      "image_type": "vector",
+      "img_url": "ic_article_16_img_1"
+    },
+    {
+      "id": 2,
+      "title": "",
+      "subtitle": "",
+      "text": "Para resolver este dilema aparecieron unas webs especiales llamadas buscadores. Ejemplos de estos sitios son:\nwww.google.com (el más famoso)\nwww.bing.com\nwww.duckduckgo.com",
+      "image_type": "vector",
+      "img_url": "ic_article_16_img_2"
+    },
+    {
+      "id": 3,
+      "title": "",
+      "subtitle": "",
+      "text": "En esta oportunidad te explicaremos lo básico para usar el buscador de Google. Para que no te pierdas, si no estás al tanto, Google es una empresa gigante en al industria tecnológica, y como tal, tiene varios productos y estos llevan el nombre de la empresa y un sufijo que indica para qué es. Por eso hablamos de Google Chrome, que es una app navegador, Google Search sería el buscador que te vamos a explicar y así continúa la lista como Google Photos o Google Files. ",
+      "image_type": "bitmap",
+      "img_url": "article_16_img_3.webp"
+    },
+    {
+      "id": 4,
+      "title": "",
+      "subtitle": "",
+      "text": "Vamos al grano. Accedemos a este sitio buscador escribiendo en nuestro navegador: \nwww.google.com\nYa dentro estaremos visualizando una página como la de la imagen, compuesta simplemente por el nombre y una barra para escribir lo que deseamos buscar.",
+      "image_type": "bitmap",
+      "img_url": "article_16_img_4.webp"
+    },
+    {
+      "id": 5,
+      "title": "",
+      "subtitle": "¿Cómo realizar la búsqueda?",
+      "text": "Bien simple, digamos que queremos encontrar la tienda de aplicaciones que ya te mencionamos. Como sabemos que se llama Apklis pues escribimos esto la barra de búsqueda de Google y damos a continuar o hacemos click en el botón de búsqueda.",
+      "image_type": "bitmap",
+      "img_url": "article_16_img_5.webp"
+    },
+    {
+      "id": 6,
+      "title": "",
+      "subtitle": "",
+      "text": "A continuación se mostrará una lista de resultados. Google utiliza varias formas de mostrar los elementos encontrados. Describiremos algunos a continuación.",
+      "image_type": "bitmap",
+      "img_url": "article_16_img_6.webp"
+    },
+    {
+      "id": 7,
+      "title": "",
+      "subtitle": "",
+      "text": "La lista muestra texto en varios colores. Generalmente entre estos el primer elemento corresponde a la opción más buscada por otras personas que usaron la misma consulta.",
+      "image_type": "vector",
+      "img_url": "ic_article_16_img_7"
+    },
+    {
+      "id": 8,
+      "title": "",
+      "subtitle": "Links",
+      "text": "Los links o rutas o URLs, como quieras llamarlos, son direcciones web. Es lo que indica a que servicio estás accediendo. Ya hemos usado varios aquí. \nwww.etecsa.cu\nwww.google.com\nTodas las webs tienen estos nombres de rutas para indicar a dónde estamos accediendo.",
+      "image_type": "vector",
+      "img_url": "ic_article_16_img_8"
+    },
+    {
+      "id": 9,
+      "title": "",
+      "subtitle": "",
+      "text": "Al buscar en Google los elementos mostrados son textos que funcionan como botones. AL hacer click en ellos eres re-dirigido al link de tu selección. Para ir a Apklis la primera vez escribimos www.apklis.cu en la barra del navegador. Ahora la búsqueda en Google nos devolvió una lista en la que aparece un botón que hace el proceso de escribir el link en la barra del navegador por nosotros.",
+      "image_type": "bitmap",
+      "img_url": "article_16_img_9.webp"
+    },
+    {
+      "id": 10,
+      "title": "",
+      "subtitle": "",
+      "text": "Claramente usar en Google es más cómodo pues agiliza la búsqueda y acceso a los sitios webs. Digamos por ejemplo que necesitas entrar a la página de tu marca de celular pero no sabes cuál es el link. Pues te diriges al buscador\nwww.google.com\nEscribimos la marca de nuestro celular, ejemplo Huawei. Y acto seguido podremos ver una lista de elementos sobre esta marca, y en las primeras veremos su sitio oficial.",
+      "image_type": "bitmap",
+      "img_url": "article_16_img_10.webp"
+    }
+  ]
+}

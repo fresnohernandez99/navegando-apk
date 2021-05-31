@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8"?>
+<layout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <data>
+
+        <variable
+            name="title"
+            type="String" />
+
+        <variable
+            name="subtitle"
+            type="String" />
+
+        <variable
+            name="text"
+            type="String" />
+
+    </data>
+
+    <androidx.constraintlayout.widget.ConstraintLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="@dimen/itemArticleMargin">
+
+        <TextView
+            android:id="@+id/titleArticle"
+            style="@style/ArticleTitles"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@{title}"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toTopOf="parent" />
+
+        <ImageView
+            android:id="@+id/imgArticle"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:minHeight="200dp"
+            android:contentDescription="@string/item_article_description"
+            android:src="@drawable/placeholder"
+            app:layout_constraintTop_toBottomOf="@id/titleArticle" />
+
+        <TextView
+            android:id="@+id/subtitleArticle"
+            style="@style/ArticleSubtitles"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@{subtitle}"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toBottomOf="@id/imgArticle" />
+
+        <TextView
+            android:id="@+id/textArticle"
+            style="@style/ArticleTexts"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@{text}"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toBottomOf="@id/subtitleArticle" />
+
+    </androidx.constraintlayout.widget.ConstraintLayout>
+
+</layout>

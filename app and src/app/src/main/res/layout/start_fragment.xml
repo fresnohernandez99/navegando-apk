@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="utf-8"?>
+<layout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools">
+
+    <data>
+
+        <variable
+            name="vm"
+            type="cu.fresnohernandez99.app.navegando.ui.fragments.start.StartViewModel" />
+
+    </data>
+
+    <androidx.constraintlayout.motion.widget.MotionLayout
+        android:id="@+id/motionLayout"
+        style="@style/FragmentsIn"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        app:layoutDescription="@xml/start_fragment_xml_motionlayout_scene"
+        tools:context=".ui.fragments.start.StartFragment">
+
+        <ImageView
+            android:id="@+id/startImage"
+            android:layout_width="260dp"
+            android:layout_height="match_parent"
+            android:contentDescription="@string/stand_front_hand_on_air_glasses"
+            android:src="@drawable/ic_stand_front_hand_on_air_glasses"
+            app:layout_constraintEnd_toEndOf="parent" />
+
+        <ImageButton
+            android:id="@+id/configsBtn"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:background="?attr/selectableItemBackground"
+            android:contentDescription="@string/configs_btn_description"
+            android:src="@drawable/ic_configs"
+            android:theme="@style/SelectableItemTheme"
+            android:tint="@color/primary"
+            android:padding="10dp"
+            android:visibility="gone"
+            app:layout_constraintBottom_toBottomOf="@id/startTopText"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintTop_toTopOf="@id/startTopText" />
+
+        <TextView
+            android:id="@+id/startTopText"
+            style="@style/TopTexts"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/t_hello"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toTopOf="parent" />
+
+        <TextView
+            android:id="@+id/username"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            style="@style/Username"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toBottomOf="@id/startTopText"/>
+
+        <LinearLayout
+            android:id="@+id/questionCardContainer"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            app:layout_constraintBottom_toBottomOf="parent">
+
+            <include
+                android:id="@+id/questionCard"
+                layout="@layout/question_layout" />
+
+        </LinearLayout>
+
+    </androidx.constraintlayout.motion.widget.MotionLayout>
+
+</layout>

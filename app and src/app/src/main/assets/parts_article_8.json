@@ -1,0 +1,84 @@
+{
+  "article_parts": [
+    {
+      "id": 1,
+      "title": "Expliquemos desde dos dispositivos distintos",
+      "subtitle": "Ordenador Windows",
+      "text": "Primero debes activar el adaptador WIFI en tu dispositivo y conectar con una red de nombre WIFI_ETECSA.",
+      "image_type": "bitmap",
+      "img_url": "article_8_img_1.webp"
+    },
+    {
+      "id": 2,
+      "title": "",
+      "subtitle": "",
+      "text": "Ahora automáticamente debe abrirse tu navegador en un sitio idéntico a esta de la imagen. Ha accedido a la red wifi de ETECSA. Note la dirección de la web. Debe decir exactamente lo mismo: https://secure.etecsa.net:8443/ Si se pregunta como abrir Facebook u otra web, no desespere. Siga con todo el material para que domine las 6 partes del principio de este curso. Solo así se asegurará de dominar su conexión e información",
+      "image_type": "bitmap",
+      "img_url": "article_8_img_2.webp"
+    },
+    {
+      "id": 3,
+      "title": "",
+      "subtitle": "ATENCIÓN",
+      "text": "De no abrirse el sitio o de no presentar el símbolo de seguridad en la parte superior usted está conectado a una red WIFI que no es oficial de ETECSA y recomendamos desconectar de ella inmediatamente.",
+      "image_type": "bitmap",
+      "img_url": "article_8_img_3.webp"
+    },
+    {
+      "id": 4,
+      "title": "",
+      "subtitle": "Dispositivo ANDROID",
+      "text": "En un celular o Tablet Android necesita dirigirse a la aplicación de configuraciones. La misma que usó para configurar su APN y abrir la sección Internet y Redes.",
+      "image_type": "bitmap",
+      "img_url": "article_8_img_4.webp"
+    },
+    {
+      "id": 5,
+      "title": "",
+      "subtitle": "",
+      "text": "Click sobre Wifi que debe aparecer como desactivada.",
+      "image_type": "bitmap",
+      "img_url": "article_8_img_5.webp"
+    },
+    {
+      "id": 6,
+      "title": "",
+      "subtitle": "",
+      "text": "En el tope superior derecho debe ver un botón de tipo swich. Presiónelo una vez para activar el adaptador WIFI.",
+      "image_type": "bitmap",
+      "img_url": "article_8_img_6.webp"
+    },
+    {
+      "id": 7,
+      "title": "",
+      "subtitle": "",
+      "text": "Una vez activada comenzarán a aparecer los puntos WIFI más cercanos a su dispositivo. Seleccione el de nombre WIFI_ETECSA. (Esto puede ser confuso, lo que pasa es que cualquier equipo que transmite este tipo de red inalámbrica pudiera ponerse ese nombre. Pida ayuda a alguien familiarizado para escoger el punto AP real de ETECSA).",
+      "image_type": "bitmap",
+      "img_url": "article_8_img_7.webp"
+    },
+    {
+      "id": 8,
+      "title": "",
+      "subtitle": "",
+      "text": "En su barra de herramientas superior notará que recibe una notificación como la mostrada en la imagen.",
+      "image_type": "bitmap",
+      "img_url": "article_8_img_8.webp"
+    },
+    {
+      "id": 9,
+      "title": "",
+      "subtitle": "",
+      "text": "Al pulsar sobre ella se abrirá un sitio como este. Igual debe tener la misma precaución mostrada sobre un portal inseguro en el subtítulo de WINDOWS.",
+      "image_type": "bitmap",
+      "img_url": "article_8_img_9.webp"
+    },
+    {
+      "id": 10,
+      "title": "",
+      "subtitle": "",
+      "text": "Si completaste satisfactoriamente alguno de estos tutoriales usted lo ha logrado. Felicidades. A partir de ahora se pone más interesante.",
+      "image_type": "vector",
+      "img_url": "ic_article_8_img_10"
+    }
+  ]
+}

@@ -1,0 +1,68 @@
+{
+  "article_parts": [
+    {
+      "id": 1,
+      "title": "",
+      "subtitle": "",
+      "text": "Pasamos al tercer capítulo de nuestra introducción. Debes saber que el tráfico de datos a través de la red tiene forma de calcularse y por tanto cuantificar en gasto. TODO, absolutamente TODO lo que realices en la red provoca subida y descarga de datos. Este es el consumo.",
+      "image_type": "vector",
+      "img_url": "ic_article_9_img_1"
+    },
+    {
+      "id": 2,
+      "title": "",
+      "subtitle": "",
+      "text": "La subida es toda información que brindes tu como usuario. Como enviar un mensaje o dar un click. La descarga es toda la información que muestran y reciben tus aplicaciones por ejemplo cuando abriste los sitios de ETECSA en los tutoriales anteriores, se produjo la descarga de la información de ellos a tu navegador.",
+      "image_type": "vector",
+      "img_url": "ic_article_9_img_2"
+    },
+    {
+      "id": 3,
+      "title": "",
+      "subtitle": "",
+      "text": "Ahora para que el proveedor de Internet, en nuestro caso ETECSA, pueda cobrarte, debe medir tu gasto en la red.\nPara esto se usan dos alternativas de cuotas. \n-Consumo cuantificado en bytes\n-Consumo cuantificado en tiempo de conexión",
+      "image_type": "vector",
+      "img_url": "ic_article_9_img_3"
+    },
+    {
+      "id": 4,
+      "title": "",
+      "subtitle": "Consumo cuantificado en bytes",
+      "text": "Este se aplica con el uso de internet a través de la vía Datos móviles que ya explicamos anteriormente.",
+      "image_type": "vector",
+      "img_url": "ic_article_9_img_4"
+    },
+    {
+      "id": 5,
+      "title": "",
+      "subtitle": "",
+      "text": "Para esta vía se ofertan paquetes con variadas cantidades de bytes y precios que puedes invertir en subida o descarga de información de tu interés.",
+      "image_type": "bitmap",
+      "img_url": "article_9_img_5.webp"
+    },
+    {
+      "id": 6,
+      "title": "",
+      "subtitle": "",
+      "text": "Pero, ¿qué representa gasto de descarga? Bueno digamos que una aplicación X al conectarse a internet te muestra una foto. Esa foto puede (por ejemplo) tener un tamaño de 125kb. En el momento que la foto se te mostró en la pantalla se restará esto de tu paquete adquirido actual. Sino conoces de medidas de contenido digital usa la herramienta de la caja de el final de esta sección y te mostrará un resumen.",
+      "image_type": "vector",
+      "img_url": "ic_article_9_img_6"
+    },
+    {
+      "id": 7,
+      "title": "",
+      "subtitle": "",
+      "text": "¿Qué representa gasto de subida? Este sería el caso donde por ejemplo usted decide enviar una foto a través de una aplicación. El peso digital o tamaño de esa foto también se restará de tu paquete adquirido.",
+      "image_type": "vector",
+      "img_url": "ic_article_9_img_7"
+    },
+    {
+      "id": 8,
+      "title": "",
+      "subtitle": "",
+      "text": "En resumen. Convertiste parte de tu saldo en una cuota de bytes. Cada acción de subida o descarga de información resta su tamaño de tu cuota adquirida.",
+      "image_type": "vector",
+      "img_url": "ic_article_9_img_8"
+    }
+  ]
+}

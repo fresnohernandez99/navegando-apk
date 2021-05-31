@@ -1,0 +1,52 @@
+{
+  "article_parts": [
+    {
+      "id": 1,
+      "title": "",
+      "subtitle": "",
+      "text": "Vamos a comenzar la exploración de las oportunidades que brinda Internet. Sitios de consulta, blogs, redes sociales y más.",
+      "image_type": "vector",
+      "img_url": "ic_article_14_img_1"
+    },
+    {
+      "id": 2,
+      "title": "",
+      "subtitle": "",
+      "text": "Comenzaremos conociendo el entorno. Necesitamos entender el cómo navegar para después aprender de hacia donde ir.",
+      "image_type": "vector",
+      "img_url": "ic_article_1_img_1"
+    },
+    {
+      "id": 3,
+      "title": "",
+      "subtitle": "",
+      "text": "El internet está compuesto por un sinfín de servicios. Los servicios se manifiestan en muchos grupos. Por ejemplo están las páginas web.",
+      "image_type": "vector",
+      "img_url": "ic_article_11_img_4"
+    },
+    {
+      "id": 4,
+      "title": "",
+      "subtitle": "",
+      "text": "Una página web puede tener cualquier contenido o información que su creador le proporcione.",
+      "image_type": "vector",
+      "img_url": "ic_article_14_img_4"
+    },
+    {
+      "id": 5,
+      "title": "",
+      "subtitle": "",
+      "text": "Para poder acceder y consumir el contenido que forma a una página web necesitamos un tipo de aplicación especial llamada NAVEGADOR. Ejemplos de este tipo de aplicaciones son Google Chrome y Firefox.",
+      "image_type": "bitmap",
+      "img_url": "article_6_img_5.webp"
+    },
+    {
+      "id": 6,
+      "title": "",
+      "subtitle": "Resumiendo",
+      "text": "Una página web es un contenido guardado en una computadora al otro lado del mundo. Con el internet, ese contenido puede ser descargado por cualquier dispositivo capaz de conectarse a la red de redes. Y luego, el navegador, es la aplicación que permite visualizarlo.",
+      "image_type": "vector",
+      "img_url": "ic_article_14_img_6"
+    }
+  ]
+}

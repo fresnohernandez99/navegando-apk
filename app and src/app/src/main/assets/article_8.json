@@ -1,0 +1,16 @@
+{
+  "id": 8,
+  "title": "Probando red Wifi",
+  "description": "Prueba de la red wifi accediendo a servicios gratis",
+  "article_part": "parts_article_8",
+  "references": [
+    "https://www.etecsa.cu",
+    "https://mi.cubacel.cu"
+  ],
+  "keywords": [
+    "wifi",
+    "prueba"
+  ],
+  "tools": [
+  ]
+}

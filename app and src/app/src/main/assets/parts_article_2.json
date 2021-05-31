@@ -1,0 +1,28 @@
+{
+  "article_parts": [
+    {
+      "id": 1,
+      "title": "",
+      "subtitle": "",
+      "text": "En la primera parte el contenido que entregamos se divide como ves en la imagen. Con cada concepto daremos respuesta a interrogantes comunes y cuya mayor dificultad es no saber ubicar su contexto de desarrollo. Digamos que entre cada una de estas secciones hay barreras para las interrogantes.",
+      "image_type": "bitmap",
+      "img_url": "article_2_img_1.webp"
+    },
+    {
+      "id": 2,
+      "title": "",
+      "subtitle": "¿Qué se resuelve con eso de dividir?",
+      "text": "Pues pasa que sino sabes preguntar nadie podrá responderte lo que necesitas y lo que queremos es que seas estés preparado tanto para preguntar como para responder de manera precisa.",
+      "image_type": "vector",
+      "img_url": "ic_article_2_img_2"
+    },
+    {
+      "id": 3,
+      "title": "",
+      "subtitle": "",
+      "text": "Puedes dar click a las imágenes que son fotografías para hacer zoom. En el botón de \"'Quiero leer más\" encontrarás sitios web con más explicaciones del tema. Y recuerda terminar los artículos y dejar tu voto positivo o negativo para mejorar la calidad de estos en cada actualización.",
+      "image_type": "vector",
+      "img_url": "ic_article_2_img_3"
+    }
+  ]
+}

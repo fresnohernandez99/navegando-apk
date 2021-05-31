@@ -1,0 +1,76 @@
+{
+  "article_parts": [
+    {
+      "id": 1,
+      "title": "",
+      "subtitle": "Consumo cuantificado en tiempo de conexión",
+      "text": "Este se aplica con el uso de internet a través de la vía Wifi que ya explicamos anteriormente.",
+      "image_type": "vector",
+      "img_url": "ic_article_10_img_1"
+    },
+    {
+      "id": 2,
+      "title": "",
+      "subtitle": "",
+      "text": "En este caso tenemos una tarifa única para varios casos que veremos más adelante. Esto significa que el precio por hora es único por caso. Los casos a definir después serían la cuenta de navegación internacional, la cuenta de navegación nacional y las variadas ofertas de la alternativa Nauta Hogar. Pero aún no lleguemos ahí.",
+      "image_type": "vector",
+      "img_url": "ic_article_10_img_2"
+    },
+    {
+      "id": 3,
+      "title": "",
+      "subtitle": "",
+      "text": "Concentrémonos en la básica. La cuenta de navegación internacional permite el acceso a toda la red con su uso.",
+      "image_type": "vector",
+      "img_url": "ic_article_10_img_3"
+    },
+    {
+      "id": 4,
+      "title": "",
+      "subtitle": "",
+      "text": "En el momento de crear nuestra cuenta en las oficinas de ETECSA se pide una cantidad mínima para llenar en nuestra cuenta. La tarifa existente en el momento de creación de este curso es de aproximadamente 3 horas por el valor de 50 C.U.P.",
+      "image_type": "vector",
+      "img_url": "ic_article_10_img_4"
+    },
+    {
+      "id": 5,
+      "title": "",
+      "subtitle": "",
+      "text": "Para ser consumido este tiempo debe abrirse la cuenta en los portales de los puntos AP de ETECSA (ej: Los parques WIFI).",
+      "image_type": "bitmap",
+      "img_url": "article_7_img_5.webp"
+    },
+    {
+      "id": 6,
+      "title": "",
+      "subtitle": "",
+      "text": "Siguiendo los pasos del tutorial de como acceder a la red a través de red wifi procederá a rellenar su usuario y contraseña señalados en el documento de propiedad de la cuenta. Encontrará dos campos para rellenar en el sitio que se abre al conectarse a este tipo de redes OFICIALES.",
+      "image_type": "bitmap",
+      "img_url": "article_10_img_6.webp"
+    },
+    {
+      "id": 7,
+      "title": "",
+      "subtitle": "",
+      "text": "En el momento que presione el botón de aceptar comienza el gasto en la cuenta abierta y podrá ver que aparece un contador de horas con el tiempo en consumo y el restante.",
+      "image_type": "bitmap",
+      "img_url": "article_10_img_7.webp"
+    },
+    {
+      "id": 8,
+      "title": "",
+      "subtitle": "",
+      "text": "Ya con el portal abierto puede empezar la navegación sin ninguna otra complicación. Pero...¿Qué pasa con el consumo de bytes?",
+      "image_type": "vector",
+      "img_url": "ic_article_10_img_8"
+    },
+    {
+      "id": 9,
+      "title": "",
+      "subtitle": "Toda acción en la red provoca gasto de subida y descarga de datos",
+      "text": "Y esto también se aplica acá en la red wifi. Pero no son contabilizados. Quiere decir que esta red no se preocupa por tu gasto de subida y bajada en ningún momento. Puedes subir y descargar todo el contenido que quieras mientras dispongas tiempo en la cuenta.",
+      "image_type": "vector",
+      "img_url": "ic_article_10_img_9"
+    }
+  ]
+}

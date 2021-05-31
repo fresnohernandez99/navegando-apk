@@ -1,0 +1,28 @@
+{
+  "article_parts": [
+    {
+      "id": 1,
+      "title": "",
+      "subtitle": "",
+      "text": "Hola de nuevo. Si estás aquí es porque quieres introducirte al mundo del internet y sus facilidades o pulir tus habilidades en su uso actual. Trataremos de traer este contenido a tu pantalla de la manera más simple posible sin dejar de abarcar detalles de importancia.",
+      "image_type": "vector",
+      "img_url": "ic_article_1_img_1"
+    },
+    {
+      "id": 2,
+      "title": "",
+      "subtitle": "",
+      "text": "La dinámica es simple. Artículo tras artículo traerá nueva e interesante información desde lo básico hasta lo complejo. Termina los artículos respondiendo si has entendido o no.",
+      "image_type": "vector",
+      "img_url": "ic_article_1_img_2"
+    },
+    {
+      "id": 3,
+      "title": "",
+      "subtitle": "Resumiendo",
+      "text": "Prepárate para tener las respuestas a ¿Por qué no puedo conectarme?, ¿Qué hago con esta app?, ¿Dónde encuentro eso? y muchas más interrogantes generales que aparecen mientras más te adentras en el mundo de la informática y las telecomunicaciones, o simplemente para ayudar a alguien.",
+      "image_type": "vector",
+      "img_url": "ic_article_1_img_3"
+    }
+  ]
+}

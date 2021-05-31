@@ -1,0 +1,76 @@
+{
+  "article_parts": [
+    {
+      "id": 1,
+      "title": "",
+      "subtitle": "",
+      "text": "Para el acceso a nauta recordamos lo necesario:\n-Haber adquirido una cuenta nauta de navegación\ninternacional en las oficinas comerciales de ETECSA\n-Conectarse a un AP nauta (explicado anteriormente)",
+      "image_type": "bitmap",
+      "img_url": "article_7_img_2.webp"
+    },
+    {
+      "id": 2,
+      "title": "",
+      "subtitle": "",
+      "text": "En el tutorial de acceso a la red Wifi lo dejamos en un punto muy parecido entre dispositivos WINDOWS y ANDROID. Precisamente donde se muestra el portal de acceso nauta.",
+      "image_type": "bitmap",
+      "img_url": "article_13_img_2.webp"
+    },
+    {
+      "id": 3,
+      "title": "",
+      "subtitle": "",
+      "text": "Dentro de los campos colocaremos la información requerida. y presionamos aceptar para comenzar el descuento. En este momento ya puedes acceder a TODO sitio o servicio de Internet igual permitido igual que con datos móviles.",
+      "image_type": "bitmap",
+      "img_url": "article_10_img_6.webp"
+    },
+    {
+      "id": 4,
+      "title": "",
+      "subtitle": "",
+      "text": "Hay tres vías para recargar nuestra cuenta nauta:\n-Depositando dinero directamente en la cuenta mediante\nuna oficina comercial de ETECSA\n-Comprando cupones de recarga\n-Y con transferencias bancarias nacionales o internacionales",
+      "image_type": "vector",
+      "img_url": "ic_article_13_img_4"
+    },
+    {
+      "id": 5,
+      "title": "",
+      "subtitle": "",
+      "text": "La primera opción no toma más que ir a Etecsa y pagar una recarga a tu cuenta, así que pasemos a la recarga con cupones. Ya comprado un cupón de recarga nauta, a continuación, mientras estamos conectados a un AP y se nos muestra el portal de inicio, SIN abrir nuestra cuenta, clickear sobre el botón Portal de Usuario que se encuentra subrayado en el centro.",
+      "image_type": "bitmap",
+      "img_url": "article_13_img_5.webp"
+    },
+    {
+      "id": 6,
+      "title": "",
+      "subtitle": "",
+      "text": "Se nos mostrará esta página llamada Portal de Usuario donde debemos rellenar los datos de la cuenta y completar el captcha. Si no sabe lo que es el captcha, pues simplemente es una medida de seguridad donde debes escribir la mayor cantidad visible de caracteres que ves en la imagen debajo.",
+      "image_type": "bitmap",
+      "img_url": "article_13_img_6.webp"
+    },
+    {
+      "id": 7,
+      "title": "",
+      "subtitle": "",
+      "text": "Presionamos aceptar y pasaremos a ver una página igual a la de la foto. Ahora nos dirigimos al botón de \"Recargar Cuenta\" de la parte superior.",
+      "image_type": "bitmap",
+      "img_url": "article_13_img_7.webp"
+    },
+    {
+      "id": 8,
+      "title": "",
+      "subtitle": "",
+      "text": "Ahí podrás rellenar con el código numérico que trae el cupón de recarga y presionar aceptar para completar la recarga.",
+      "image_type": "bitmap",
+      "img_url": "article_13_img_8.webp"
+    },
+    {
+      "id": 9,
+      "title": "",
+      "subtitle": "Listo!!!",
+      "text": "Acabas de completar la recarga básica de tu cuenta nauta internacional a través de un cupón de recarga. Los pasos para recargar con Transfermóvil se presentan en tutoriales más adelantes.",
+      "image_type": "vector",
+      "img_url": "ic_article_12_img_10"
+    }
+  ]
+}

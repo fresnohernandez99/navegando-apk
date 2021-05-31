@@ -1,0 +1,52 @@
+{
+  "article_parts": [
+    {
+      "id": 1,
+      "title": "",
+      "subtitle": "",
+      "text": "De seguro ya has escuchado: 'Créate una cuenta aquí', 'Inicia sesión en tal lugar', 'Necesitas usuario y contraseña'. Bueno ahora tendrás un recorrido por estos conceptos.",
+      "image_type": "vector",
+      "img_url": "ic_article_20_img_1"
+    },
+    {
+      "id": 2,
+      "title": "",
+      "subtitle": "",
+      "text": "Primero, una cuenta es la vía de recordar tu credencial de acceso hacia algún servicio. Generalmente se necesitan 3 requisitos para tener una.\n- nombre de usuario (es un identificador de tu preferencia,\ntu nombre, una combinación de letras, lo que sea fácil de recordar y leer para tí)\n- contraseña o clave (es una combinación de letras, números, y símbolos preferentemente, logrando un conjunto únicamente conocido por tí)\n- referente a contacto (puede ser un correo electrónico o un número de teléfono generalmente)",
+      "image_type": "vector",
+      "img_url": "ic_article_20_img_2"
+    },
+    {
+      "id": 3,
+      "title": "",
+      "subtitle": "",
+      "text": "Una sesión es el uso dado por un usuario a una página después de ser acreditado con su cuenta. Cada página puede requerir una cuenta particular de ella, para habilitar sus servicios.",
+      "image_type": "vector",
+      "img_url": "ic_article_20_img_3"
+    },
+    {
+      "id": 4,
+      "title": "",
+      "subtitle": "",
+      "text": "Esto puede parecer familiar para ti ya que ya posees una cuenta para el uso del servicio wifi Nauta que ya hemos explicado. Pues bien, con esta cuenta únicamente puedes habilitar este servicio.",
+      "image_type": "bitmap",
+      "img_url": "article_7_img_4.webp"
+    },
+    {
+      "id": 5,
+      "title": "",
+      "subtitle": "",
+      "text": "Digamos que queremos hacer un comentario a una foto en una página que presenta una galería de artistas del lente. Pues seguramente esta pedirá que presentemos nuestras credenciales para poder realizar la acción.",
+      "image_type": "vector",
+      "img_url": "ic_article_20_img_5"
+    },
+    {
+      "id": 6,
+      "title": "",
+      "subtitle": "",
+      "text": "Es entonces cuando debemos recordar si tenemos o no, cuenta en este sitio. De ser así simplemente introducimos los datos pertinente, usuario y contraseña. Pero de ser nuestra primera vez pues deberemos de pasar el proceso de Registro.",
+      "image_type": "vector",
+      "img_url": "ic_article_20_img_6"
+    }
+  ]
+}

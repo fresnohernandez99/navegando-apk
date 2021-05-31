@@ -1,0 +1,20 @@
+{
+  "id": 12,
+  "title": "Comprando paquete básico",
+  "description": "Explicación de cómo comprar un paquete de datos móviles",
+  "article_part": "parts_article_12",
+  "references": [
+    "https://www.etecsa.cu",
+    "https://mi.cubacel.cu"
+  ],
+  "keywords": [
+    "dato",
+    "paquete"
+  ],
+  "tools": [
+    {
+      "type": "tool_call_usd",
+      "data": "*133*1*4*1"
+    }
+  ]
+}

@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="utf-8"?>
+<layout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools">
+
+    <data>
+
+        <variable
+            name="vm"
+            type="cu.fresnohernandez99.app.navegando.ui.fragments.tutorials.TutorialsViewModel" />
+
+        <variable
+            name="adapterV"
+            type="cu.fresnohernandez99.app.navegando.ui.adapters.QuestionOptionsAdapter" />
+
+        <variable
+            name="articleAdapterV"
+            type="cu.fresnohernandez99.app.navegando.ui.adapters.ArticleAdapter" />
+
+        <variable
+            name="articleTitle"
+            type="String" />
+
+    </data>
+
+    <FrameLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:background="@drawable/ic_background_purple_up"
+        tools:context=".ui.fragments.start.TutorialFragment">
+
+        <androidx.core.widget.NestedScrollView
+            android:id="@+id/scroll"
+            android:scrollbars="vertical"
+            android:scrollbarThumbVertical="@color/onPrimary"
+            android:fadeScrollbars="false"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent">
+
+            <androidx.constraintlayout.widget.ConstraintLayout
+                android:id="@+id/constraintLayout5"
+                style="@style/FragmentsIn"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent">
+
+                <TextView
+                    android:id="@+id/articleTitleTextView"
+                    style="@style/TopTexts"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="@{articleTitle}"
+                    app:layout_constraintStart_toStartOf="parent"
+                    app:layout_constraintTop_toTopOf="parent" />
+
+                <androidx.recyclerview.widget.RecyclerView
+                    android:id="@+id/articleRecycler"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:overScrollMode="never"
+                    app:adapter="@{articleAdapterV}"
+                    app:layoutManager="androidx.recyclerview.widget.LinearLayoutManager"
+                    app:layout_constraintTop_toBottomOf="@id/articleTitleTextView"
+                    tools:itemCount="2"
+                    tools:listitem="@layout/item_article" />
+
+                <Button
+                    android:id="@+id/showReference"
+                    style="?attr/materialButtonOutlinedStyle"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:gravity="center"
+                    android:text="@string/wanna_read_more"
+                    android:textAllCaps="false"
+                    app:layout_constraintTop_toBottomOf="@id/articleRecycler" />
+
+                <LinearLayout
+                    android:id="@+id/toolsCardContainer"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_marginTop="@dimen/topTextMargin"
+                    app:layout_constraintTop_toBottomOf="@id/showReference">
+
+                    <include
+                        android:id="@+id/toolsCard"
+                        layout="@layout/tools_layout_2" />
+
+                </LinearLayout>
+
+                <LinearLayout
+                    android:id="@+id/questionCardContainer"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_marginTop="@dimen/topTextMargin"
+                    app:layout_constraintTop_toBottomOf="@id/toolsCardContainer">
+
+                    <include
+                        android:id="@+id/questionCard"
+                        layout="@layout/question_layout" />
+
+                </LinearLayout>
+
+            </androidx.constraintlayout.widget.ConstraintLayout>
+
+        </androidx.core.widget.NestedScrollView>
+
+    </FrameLayout>
+
+</layout>

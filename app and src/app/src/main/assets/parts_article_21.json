@@ -1,0 +1,60 @@
+{
+  "article_parts": [
+    {
+      "id": 1,
+      "title": "",
+      "subtitle": "",
+      "text": "Para crearte una cuenta específica en una página web X, debemos seguramente de acceder a la sección de registro que podremos encontrar al clickear en botones con mensaje de 'Registrarse' o 'Crear Cuenta' o 'Sign In' u otro mensaje cercano. Casi siempre son muy visibles.",
+      "image_type": "vector",
+      "img_url": "ic_article_21_img_1"
+    },
+    {
+      "id": 2,
+      "title": "",
+      "subtitle": "",
+      "text": "Luego debemos proceder a rellenar datos de interés para la página. En la mayoría se nos piden datos básicos como los que ya contamos:\n- nombre de usuario\n- contraseña\n- correo electrónico o número de teléfono",
+      "image_type": "vector",
+      "img_url": "ic_article_20_img_2"
+    },
+    {
+      "id": 3,
+      "title": "",
+      "subtitle": "",
+      "text": "En este proceso se nos pide siempre escribir nuestra contraseña dos veces para prevenir que estemos escribiendo mal ya que a medida que la introducimos caracteres notamos que se sustituyen para proteger de que alguien pueda verla.",
+      "image_type": "vector",
+      "img_url": "ic_article_21_img_3"
+    },
+    {
+      "id": 4,
+      "title": "",
+      "subtitle": "",
+      "text": "El contacto que se introduce ya sea el correo electrónico o el número de teléfono es para el paso final. El proceso de validación de  usuario. Se produce justo después de que aceptamos los términos y condiciones de la página y presionamos el botón de continuar con la creación de nuestra cuenta.",
+      "image_type": "vector",
+      "img_url": "ic_article_21_img_4"
+    },
+    {
+      "id": 5,
+      "title": "",
+      "subtitle": "Correo de validación",
+      "text": "Cuando esto se introduce como dato de contacto y se completa el proceso de registro, deberás recibir un correo con un botón o link de validación. Es tan simple como clickear en este para ser enviado de vuelta a la página.",
+      "image_type": "vector",
+      "img_url": "ic_article_21_img_5"
+    },
+    {
+      "id": 6,
+      "title": "",
+      "subtitle": "Número de teléfono",
+      "text": "Cuando esto se introduce como dato de contacto y se completa el proceso de registro, deberás un SMS o una llamada con un número que debes introducir dónde indique el sitio.",
+      "image_type": "vector",
+      "img_url": "ic_article_21_img_6"
+    },
+    {
+      "id": 7,
+      "title": "",
+      "subtitle": "",
+      "text": "Tanto el proceso de registro como el de validación se realizan una vez por cuenta en cada página. Después de completados puedes proceder a iniciar sesión en este sitio siempre que lo necesites y así utilizar el 100 % de sus funciones y servicios. Los procesos de registro y validación deben realizarse una única vez por página o servicio.",
+      "image_type": "vector",
+      "img_url": "ic_article_21_img_7"
+    }
+  ]
+}

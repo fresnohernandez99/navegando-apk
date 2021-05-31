@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<layout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <data>
+
+        <variable
+            name="item"
+            type="cu.fresnohernandez99.app.navegando.data.model.entities.Article" />
+
+    </data>
+
+    <androidx.cardview.widget.CardView
+        android:id="@+id/mainCardArticleMini"
+        style="@style/CardOptionItem"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="@dimen/marginHorizontalArticleMini"
+        android:layout_marginEnd="@dimen/marginHorizontalArticleMini"
+        android:layout_marginBottom="@dimen/marginArticleMini"
+        android:foreground="?android:attr/selectableItemBackgroundBorderless"
+        app:contentPadding="@dimen/optionPadding">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical">
+
+            <TextView
+                android:id="@+id/theme"
+                style="@style/ArticleMiniTitle"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="@{item.title}" />
+
+            <TextView
+                android:id="@+id/oneLineDescription"
+                style="@style/ArticleMiniDescription"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:ellipsize="end"
+                android:maxLines="2"
+                android:minLines="2"
+                android:text="@{item.description}"
+                app:layout_constraintTop_toBottomOf="@id/theme" />
+
+        </LinearLayout>
+
+    </androidx.cardview.widget.CardView>
+
+</layout>
